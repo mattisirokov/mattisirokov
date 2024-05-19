@@ -10,4 +10,6 @@ Here's a little about me:
 - 💬 I believe in clean, understandable and time-safe code!
 - 📫 How to reach me: mattisirokov@gmail.com or on LinkedIn: https://www.linkedin.com/in/mattisirokov/
 
+- 🔑 workds: React, NextJS, TypeScript, React Native, Supabase, Tailwind CSS, Fullstack developer.
+
 Thanks for stopping by, feel free to look around! 🚀
