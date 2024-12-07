@@ -1,15 +1,19 @@
 ### Hey! 👋
 
-I'm a full-stack developer currently living in Tampere, Finland. 🇫🇮
+I’m **Matti Sirokov**, a full-stack developer based in Tampere, Finland. 🇫🇮  
+I build web and mobile applications that combine sleek design with functionality.  
 
-Here's a little about me:
+### A little about me:  
+- 🌱 **Currently working on**:  
+   Diving deep into React Native and advanced full-stack development practices.  
+   While most of my client work has been with Next.js and React, I’m secretly a big **Svelte** fan these days! 🤫  
+   
+- 🛠️ **Tech Stack**:  
+   Fullstack Development, React, Next.js, Svelte, TypeScript, React Native, MongoDB, PostgreSQL, Docker, AWS, Tailwind CSS  
 
-- 🔭 I’m currently working on mostly front-end apps. NextJS, React and React Native is where I'm currently spending time.
-- 🦺 When using JS, I enjoy the type safety that TypeScript offers - it's one of my faveriot tools!
-- 🌱 I’m diving deep into React Native and full-stack development!
-- 💬 I believe in clean, understandable and time-safe code!
-- 📫 How to reach me: mattisirokov@gmail.com or on LinkedIn: https://www.linkedin.com/in/mattisirokov/
+### 📫 How to reach me:  
+- 💌 Email: [mattisirokov@gmail.com](mailto:mattisirokov@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/mattisirokov](https://www.linkedin.com/in/mattisirokov/)  
+- 🌐 Personal Website: [orionmc.fi](https://www.orionmc.fi)  
 
-- 🔑 words: React, NextJS, TypeScript, React Native, Supabase, Tailwind CSS, Fullstack developer.
-
-Thanks for stopping by, feel free to look around! 🚀
+Thanks for stopping by, feel free to look around! 🚀  
